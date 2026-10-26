@@ -46,7 +46,7 @@ autonomous-react-agent/
 ├── agent.py
 ├── tools.py
 ├── requirements.txt
-├── .env.example
+├── .env
 ├── .gitignore
 └── README.md
 ```
